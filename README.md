@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Javascript, TypeScript,React, Spring-boot, MYsql**
 
-- 📫 How to reach me **kvijay948@gmail.com**
+- 📫 How to reach me **kvijayreddy948@gmail.com**
 
 
 
