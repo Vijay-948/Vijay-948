@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kvijay948@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Conne	ct with me:</h3>
 <p align="left">
