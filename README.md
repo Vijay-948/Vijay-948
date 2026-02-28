@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, Javascript, TypeScript, React, Spring-boot, MYsql, PostgreSQL, Microservices**
+- 💬 Ask me about **Java, Javascript, TypeScript, React, Spring-boot, MYsql, PostgreSQL, Microservices, Docker**
 
 - 📫 How to reach me **kvijayreddy948@gmail.com**
 
